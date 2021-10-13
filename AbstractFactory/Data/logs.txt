@@ -1,0 +1,15 @@
+13-10-2021 3:54:49 PM;ball;10%;City centre west
+13-10-2021 3:54:49 PM;cake;1%;City centre west
+13-10-2021 3:54:49 PM;shirt;30%;City centre west
+13-10-2021 3:54:49 PM;ball;10%;City centre east
+13-10-2021 3:54:49 PM;oscilloscope;30%;City centre east
+13-10-2021 3:54:54 PM;ball;10%;City centre west
+13-10-2021 3:54:54 PM;cake;1%;City centre west
+13-10-2021 3:54:54 PM;shirt;30%;City centre west
+13-10-2021 3:54:54 PM;ball;10%;City centre east
+13-10-2021 3:54:54 PM;oscilloscope;30%;City centre east
+13-10-2021 3:54:59 PM;ball;10%;City centre west
+13-10-2021 3:54:59 PM;cake;1%;City centre west
+13-10-2021 3:54:59 PM;shirt;30%;City centre west
+13-10-2021 3:54:59 PM;ball;10%;City centre east
+13-10-2021 3:54:59 PM;oscilloscope;30%;City centre east
